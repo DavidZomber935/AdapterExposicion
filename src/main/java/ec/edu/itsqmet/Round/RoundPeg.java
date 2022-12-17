@@ -5,8 +5,8 @@ public class RoundPeg {
 
     public RoundPeg() {}
 
-    public RoundPeg(double radius) {
-        this.radius = radius;
+    public RoundPeg(double radiu) {
+        this.radius = radiu;
     }
 
     public double getRadius() {
